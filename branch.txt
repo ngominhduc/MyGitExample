@@ -1,0 +1,5 @@
+- git checkout -b develop
+- git branch
+- git add branch.txt
+- git commit -m "create branch"
+- git push origin develop
